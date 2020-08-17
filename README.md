@@ -1,6 +1,6 @@
 ### Hi there, I'm Makdoom Shaikh 👋
 
-- 🔭 I’m currently working on Netflix Clone
+- 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning React Redux
 - 👯 I’m looking to collaborate on Front End Projects
 - 🤔 I’m looking for help with Firebase
