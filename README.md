@@ -1,6 +1,6 @@
 ### Hi there, I'm Makdoom Shaikh 👋
 
-![Website](https://img.shields.io/website?label=Portfolio&up_message=Online&url=https%3A%2F%2Fmakdoom.github.io%2F)
+[![Website](https://img.shields.io/website?label=Portfolio&up_message=Online&url=https%3A%2F%2Fmakdoom.github.io%2F)](https://makdoom.github.io)
 
 - 🔭 I’m currently working on my MERN Chating App
 - 🌱 I’m currently learning React Redux
