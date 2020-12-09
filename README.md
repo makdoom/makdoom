@@ -2,8 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=Portfolio&up_message=Online&url=https%3A%2F%2Fmakdoom.github.io%2F)](https://makdoom.github.io)
 
-- 🔭 I’m currently working on my MERN Chating App
-- 🌱 I’m currently learning React Redux
+- 🔭 I’m currently working on MERN Chating App
+- 🌱 I’m currently improving my React skills 
 - 👯 I’m looking to collaborate on Front End Projects
 - 🤔 I’m looking for help with Firebase
 - 💬 Ask me about HTML, CSS, JS etc.
@@ -17,6 +17,7 @@
 [<img align="left" alt="makdoom | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="makdoom | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="makdoom | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="makdoom | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" />][instagram]
 
 <br />
 <br />
