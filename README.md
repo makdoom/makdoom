@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Portfolio" width="22px" src="https://img.favpng.com/18/10/19/earth-globe-world-logo-png-favpng-rJ1EwExk8eubzb57k4YrE1SMk.jpg" />][website]
 [<img align="left" alt="makdoom | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />][twitter]
 [<img align="left" alt="makdoom | LinkedIn" width="22px" src="http://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" />][linkedin]
 [<img align="left" alt="makdoom | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" />][instagram]
