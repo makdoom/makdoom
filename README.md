@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Portfolio&up_message=Online&url=https%3A%2F%2Fmakdoom.github.io%2F)](https://makdoom.github.io)
 
-- 🔭 I’m currently working on MERN Chating App
+- 🔭 I’m currently working on my personal Portfolio
 - 🌱 I’m currently improving my React skills 
 - 👯 I’m looking to collaborate on Front End Projects
 - 🤔 I’m looking for help with Firebase
