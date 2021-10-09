@@ -54,8 +54,4 @@
 
 
 
-[website]: https://makdoom.github.io/
-[twitter]: https://twitter.com/makdoom
-[instagram]: https://instagram.com/makdismm
-[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/makdoom-shaikh-42897a172/
-[icons]: #
+
