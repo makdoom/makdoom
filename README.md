@@ -9,14 +9,6 @@
 - 💬 Ask me about HTML, CSS, JS etc.
 - ⚡ Fun fact: I spend almost 10-12 hours on computer.
 
-
-
-
-[<img align="left" alt="Portfolio" width="22px" src="https://www.pinclipart.com/picdir/big/211-2116571_website-website-logo-png-transparent-background-clipart.png" />][website]
-[<img align="left" alt="makdoom | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />][twitter]
-[<img align="left" alt="makdoom | LinkedIn" width="22px" src="http://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" />][linkedin]
-[<img align="left" alt="makdoom | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" />][instagram]
-
 <br />
 <br />
 
@@ -41,7 +33,7 @@
 <br />
 
 
-### :zap: <b>GitHub Stats </b>
+### <b>GitHub Stats </b>
 
 <div style="display:flex; justify-content:sapce-between">
   <img style="height:200px"  alt="makdoom's GitHub Stats" src="https://github-readme-stats-chi-fawn.vercel.app/api?username=makdoom&show_icons=true&theme=dracula&hide_border=true" />
