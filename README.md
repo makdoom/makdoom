@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I spend almost 10-12 hours on computer.
 
 
-### Connect with me:
+
 
 [<img align="left" alt="Portfolio" width="22px" src="https://www.pinclipart.com/picdir/big/211-2116571_website-website-logo-png-transparent-background-clipart.png" />][website]
 [<img align="left" alt="makdoom | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />][twitter]
@@ -49,9 +49,14 @@
   <img style="height:200px" alt="makdoom's GitHub Stats" src="https://github-readme-stats-chi-fawn.vercel.app/api/top-langs?username=makdoom&layout=compact&langs_count=16&show_icons=true&theme=dracula&hide_border=true" />
 </div>
 
+ ### Connect with me:
+
+<div style="width:100%; display:flex; ">
+   <a href="https://github.com/makdoom" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/shaikh_makdoom" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   
-
-
+  
+</div>
 
 
 
