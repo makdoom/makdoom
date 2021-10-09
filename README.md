@@ -10,8 +10,6 @@
 - ⚡ Fun fact: I spend almost 10-12 hours on computer.
 
 <br />
-<br />
-
 
 ### Languages and Tools:
 
