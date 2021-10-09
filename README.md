@@ -43,9 +43,13 @@
 
 ### :zap: <b>GitHub Stats </b>
 
+<div style="display:flex">
   <img align="left" alt="makdoom's GitHub Stats" src="https://github-readme-stats-chi-fawn.vercel.app/api?username=makdoom&show_icons=true&theme=dracula&hide_border=true" />
   
-  <img align="right" width="350px" alt="makdoom's GitHub Stats" src="https://github-readme-stats-chi-fawn.vercel.app/api/top-langs?username=makdoom&layout=compact&langs_count=16&show_icons=true&theme=dracula&hide_border=true" />
+  <img align="right" alt="makdoom's GitHub Stats" src="https://github-readme-stats-chi-fawn.vercel.app/api/top-langs?username=makdoom&layout=compact&langs_count=16&show_icons=true&theme=dracula&hide_border=true" />
+</div>
+
+  
 
 
 
