@@ -28,9 +28,6 @@
 
 <div style="display:flex; justify-content:sapce-between">
   <img style="height:200px"  alt="makdoom's GitHub Stats" src="https://github-readme-stats-chi-fawn.vercel.app/api?username=makdoom&show_icons=true&theme=dracula&hide_border=true" />
-  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makdoom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
   <img style="height:200px" alt="makdoom's GitHub Stats" src="https://github-readme-stats-chi-fawn.vercel.app/api/top-langs?username=makdoom&layout=compact&langs_count=16&show_icons=true&theme=dracula&hide_border=true" />
 </div>
 
