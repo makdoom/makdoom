@@ -27,7 +27,7 @@
 ### <b>GitHub Stats </b>
 
 <div style="display:flex; justify-content:sapce-between">
-  <img style="height:200px"  alt="makdoom's GitHub Stats" src="https://github-readme-stats-chi-fawn.vercel.app/api?username=makdoom&show_icons=true&theme=dracula&hide_border=true" />
+  <img style="height:200px"  alt="makdoom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makdoom&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
   
 
  ### Connect with me:
