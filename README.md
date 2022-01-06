@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=Portfolio&up_message=Online&url=https%3A%2F%2Fmakdoom.github.io%2F)](https://makdoom.github.io)
 
 
-- 💬 Ask me about ``` const topics = [ "HTML", "CSS", "JavaScript" "React", "Angular"] ```
+- 💬 Ask me about ``` const topics = [ "HTML", "CSS", "JavaScript" "React"] ```
 
 - 🔭 I’m currently working on my Blockchain
 
