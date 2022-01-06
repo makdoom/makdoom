@@ -6,13 +6,13 @@
 
 - 💬 Ask me about ``` const topics = [ "HTML", "CSS", "JavaScript" "React"] ```
 
-- 🔭 I’m currently working on my Blockchain
+- 🔭 I’m currently working on my Blockchain Project
 
 - 🌱 I’m currently improving my Solidity skills 
 
 - 👯 I’m looking to collaborate on Front End Projects
 
-- 🤔 I’m looking for help with Blockchain
+- 🤔 I’m looking for help with Blockchain, Ethereum etc
 
 
 <br/>
