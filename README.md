@@ -1,15 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Makdoom Shaikh</h1>
 <h3 align="center">git commit -m <b>"Hello, I'm a Frontend Developer at Digital Solution Media" </b></h3>
 
-
-<div style="width:100%; display:flex; ">
-   [![Website](https://img.shields.io/website?label=Portfolio&up_message=Online&url=https%3A%2F%2Fmakdoom.github.io%2F)](https://makdoom.github.io)
-   <a href="mailto:makshaikh99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-   <a href="https://github.com/makdoom" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://twitter.com/shaikh_makdoom" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/makdoom-shaikh-42897a172/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-   <a href="https://instagram.com/makdoom.js" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-</div>
+  [![Website](https://img.shields.io/website?label=Portfolio&up_message=Online&url=https%3A%2F%2Fmakdoom.github.io%2F)](https://makdoom.github.io)
 
 
 - 💬 Ask me about ``` const topics = [ "HTML", "CSS", "JavaScript" "React"] ```
@@ -40,6 +32,14 @@
 
  ### Connect with me:
 
+
+<div style="width:100%; display:flex; ">
+   <a href="mailto:makshaikh99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   <a href="https://github.com/makdoom" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/shaikh_makdoom" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/makdoom-shaikh-42897a172/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://instagram.com/makdoom.js" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+</div>
 
 
 
