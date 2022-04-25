@@ -6,7 +6,7 @@
 
 - 💬 Ask me about ``` const topics = [ "HTML", "CSS", "JavaScript" "React"] ```
 
-- 🔭 I’m currently working on my Blockchain Project
+- 🔭 I’m currently working on my MERN Projects
 
 - 🌱 I’m currently improving my Solidity skills 
 
