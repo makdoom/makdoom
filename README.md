@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my MERN Projects
 
-- 🌱 I’m currently improving my Solidity skills 
+- 🌱 I’m currently improving my Backend Skills 
 
 - 👯 I’m looking to collaborate on Front End Projects
 
