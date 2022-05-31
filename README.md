@@ -38,16 +38,17 @@
 ## GitHub Stats:
 
 <div style="display:flex; justify-content:sapce-between">
-  <img style="height:200px"  alt="makdoom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makdoom&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" />
-  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makdoom&theme=dark&border=orange)](https://github.com/makdoom)
-
+  <img alt="makdoom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makdoom&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" />
  
 </div>
 
- ### Activity Graph:
+## Github Streak:
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makdoom&theme=tokyonight&border=000000)](https://github.com/makdoom)
+
+
+ ### Github Activity Graph:
  
- [![Makdoom's github activity graph](https://activity-graph.herokuapp.com/graph?username=makdoom&theme=dracula)](https://github.com/makdoom)
+ [![Makdoom's github activity graph](https://activity-graph.herokuapp.com/graph?username=makdoom&theme=material-palenight)](https://github.com/makdoom)
 
 
 
