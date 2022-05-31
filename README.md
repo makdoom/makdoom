@@ -38,7 +38,7 @@
 ## GitHub Stats:
 
 <div style="display:flex; justify-content:sapce-between">
-  <img alt="makdoom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makdoom&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" />
+  <img alt="makdoom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makdoom&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" />
  
 </div>
 
