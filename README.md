@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Makdoom Shaikh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40"> I'm Makdoom Shaikh</h1>
 <h2 align="center" >git commit -m <b>"Hello, I'm a Frontend Developer at Digital Solution Media" </b></h2>
 
 
