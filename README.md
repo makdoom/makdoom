@@ -1,6 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40"> I'm Makdoom Shaikh</h1>
-<h2 align="center" >git commit -m <b>"Hello, I'm a Frontend Developer at Digital Solution Media" </b></h2>
-
 
 <div align="center">
   
@@ -17,13 +15,13 @@
 
 - 💬 Ask me about ``` const topics = [ "HTML", "CSS", "JavaScript" "React", TailwindCSS] ```
 
-- 🔭 I’m currently working on my NextJS Projects
+- 🔭 I’m currently learning React Native
 
-- 🌱 I’m currently improving my React Skills 
+- 🌱 I’m currently improving my React Native Skills 
 
 - 👯 I’m looking to collaborate on Front End Projects
 
-- 🤔 I’m looking for help with Blockchain, Ethereum etc
+- 🤔 I’m looking for help with React Naitve.
 
 <br/>
 
