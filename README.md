@@ -35,10 +35,11 @@
 
 ## GitHub Stats:
 
+
 <div style="display:flex; justify-content:sapce-between">
-  <img alt="makdoom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makdoom&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" />
- 
+  <img alt="makdoom's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/makdoom?cardType=level&theme=material-palenight&Border=000000)" /> 
 </div>
+
 
 ## Github Streak:
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makdoom&theme=tokyonight&border=000000)](https://github.com/makdoom)
