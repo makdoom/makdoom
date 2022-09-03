@@ -35,7 +35,6 @@
 
 ## GitHub Stats:
 
-
 <div style="display:flex; justify-content:sapce-between">
   <img alt="makdoom's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/makdoom?cardType=level&theme=material-palenight&Border=000000)" /> 
 </div>
@@ -43,16 +42,3 @@
 
 ## Github Streak:
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makdoom&theme=tokyonight&border=000000)](https://github.com/makdoom)
-
-
- ### Github Activity Graph:
- 
- [![Makdoom's github activity graph](https://activity-graph.herokuapp.com/graph?username=makdoom&theme=material-palenight)](https://github.com/makdoom)
-
-
-
-
-
-
-
-
