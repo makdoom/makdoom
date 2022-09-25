@@ -21,24 +21,134 @@
 
 - 👯 I’m looking to collaborate on Front End Projects
 
-- 🤔 I’m looking for help with React Naitve.
+- 🤔 I’m looking for help with React Native.
 
 <br/>
 
 ## Languages and Tools:
-<div>
-   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://sass-lang.com//" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://www.code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="mysql" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="angular" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="angular" width="40" height="40"/> </a><a href="https://www.expressjs.com/" target="_blank" style="color:white"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="angular" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="angular" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>> </a><a href="https://www.github.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="python" width="40" height="40"/> </a><a href="https://www.code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="mysql" width="40" height="40"/> </a>
-</div>
-<br />
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+     <a href="#" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="40" height="40"/> 
+    </a>
+    <br/>HTML5
+   </td>
+   <td align="center" width="96">
+    <a href="#" target="_blank"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a>
+    <br/> CSS3
+   </td>
+    </td>
+   <td align="center" width="96">
+    <a href="#" target="_blank"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
+    </a>
+    <br/> Bootstrap
+   </td>
+   <td align="center" width="96">
+    <a href="#" target="_blank"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+    </a>
+    <br/> SASS
+   </td>
+   <td align="center" width="96">
+    <a href="#" target="_blank"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> 
+    </a>
+    <br/> TailwindCSS
+   </td>    
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Material ui
+    </td> 
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="nodejs" />
+      </a>
+      <br>NodeJS
+    </td> 
+  </tr>
+  <tr>
+  <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+  <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+  <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+   <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+   <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+   <td align="center" width="96">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="vscode" />
+      </a>
+      <br>Vscode
+    </td>
+   <td align="center" width="96">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="firebase" />
+      </a>
+      <br>Firebase
+    </td>
+  <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="heroku" />
+      </a>
+      <br>Heroku
+    </td>
+  </tr>
+</table>
 
 
-## GitHub Stats:
+## GitHub Stats & Streaks:
 
-<div style="display:flex; justify-content:sapce-between">
-  <img alt="makdoom's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/makdoom?cardType=level&theme=material-palenight&Border=000000)" /> 
-</div>
-
-
-## Github Streak:
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makdoom&theme=tokyonight&border=000000)](https://github.com/makdoom)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" alt="makdoom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makdoom&show_icons=true&theme=nightowl&border_color=000000" /> 
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makdoom&theme=nightowl&border=000000" />
+</a>
