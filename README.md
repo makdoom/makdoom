@@ -144,11 +144,16 @@
 </table>
 
 
-## GitHub Stats & Streaks:
+## GitHub Stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/makdoom">
   <img align="center" alt="makdoom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makdoom&show_icons=true&theme=nightowl&border_color=000000" /> 
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+
+## GitHub Streaks:
+
+<a href="https://github.com/makdoom">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makdoom&theme=nightowl&border=000000" />
 </a>
+
