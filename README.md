@@ -15,13 +15,13 @@
 
 - 💬 Ask me about ``` const topics = [ "HTML", "CSS", "JavaScript" "React", TailwindCSS] ```
 
-- 🔭 I’m currently learning React Native
+- 🔭 I’m currently learning Typescript.
 
-- 🌱 I’m currently improving my React Native Skills 
+- 🌱 I’m currently improving my Typescript Skills 
 
 - 👯 I’m looking to collaborate on Front End Projects
 
-- 🤔 I’m looking for help with React Native.
+- 🤔 I’m looking for help with Typescript.
 
 <br/>
 
