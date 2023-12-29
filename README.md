@@ -149,7 +149,7 @@
 ## GitHub Stats:
 
 <a href="https://github.com/makdoom">
-  <img align="center" alt="makdoom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makdoom&show_icons=true&theme=nightowl&border_color=000000" /> 
+  <img align="center" alt="makdoom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makdoom&show_icons=true&theme=github_dark&border_color=ffffff" /> 
 </a>
 
 
